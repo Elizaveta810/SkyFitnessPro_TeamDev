@@ -10,7 +10,7 @@ export default function Header() {
           </Link> */}
         </div>
         <div>
-          <p className="text-black">Онлайн тренировки для занятий дома</p>
+          <p className="text-black">Онлайн тренировки для занятий дома.</p>
         </div>
       </div>
 
