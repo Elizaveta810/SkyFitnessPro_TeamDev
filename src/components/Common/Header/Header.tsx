@@ -13,7 +13,7 @@ export default function Header() {
         </div>
         <div className="space-y-[60px]">
           <p className="font-roboto hidden md:flex">
-            Онлайн тренировки для занятий дома
+            Онлайн тренировки для занятий дома!!!
           </p>
         </div>
       </div>
